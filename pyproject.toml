@@ -1,0 +1,14 @@
+[project]
+name = "vestige"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastparquet>=2025.12.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "psycopg2>=2.9.11",
+    "sqlalchemy>=2.0.45",
+]
